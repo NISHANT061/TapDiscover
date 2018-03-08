@@ -1,0 +1,17 @@
+
+.grid{
+
+	-moz-column-width: 220px;
+    -webkit-column-width: 220px; 
+    column-count: 3;
+	background-color: black;
+}
+
+.card {
+	display: inline-block;
+	
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    padding-bottom: 6px;
+    text-align: center;
+}
